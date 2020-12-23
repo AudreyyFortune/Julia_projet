@@ -1,4 +1,4 @@
-# Julia project : Compare the Julia programming language to Python and R programming languages in Biology.
+# Julia project : Compare the Julia programming language to Python and R in Biology.
 
 #### By : Audrey Fortune
 #### Cursus : M2 Bioinformatique
@@ -9,48 +9,37 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 ***Initiation to Julia*** : Here, we are going to compare the following programming languages : Python, R, Julia. 
 
 ## Required
-- Python 3.8
-- Julia 1.5
-- R 4.0
+- Python 3.8 [link](https://www.python.org/downloads/)
+- Julia 1.5 [link](https://julialang.org/downloads/)
+- R 4.0 [link](https://cran.r-project.org/)
 - Jupyter / Jupyterlab notebook
 
 ## Packages
 ????
 
-## How to use the script 'projet_long_Julia.ipynb'
-  1. Installation
-  
+## How to use the script 'projet_long_Julia.ipynb' <br/>
+  1. Installation <br/>
  ```
 julia> using Pkg
 julia> Pkg.add("IJulia")
 ```
-  2. Usage
-  
+  2. Usage <br/>
 In a Julia shell :
 ```
 julia> using IJulia
 julia> notebook()
 ```
 
+## How to use the script 'projet_long_Python.ipynb' <br/>
+  1. Installation <br/>
+With conda : ```  conda install -c conda-forge notebook ```  <br/>
+With pip : ``` pip install notebook ``` <br/>
 
-## How to use the script 'projet_long_Python.ipynb'
-  1. Installation
-  
-With conda :
-```  
-conda install -c conda-forge notebook
-```
-With pip :
-```
-pip install notebook
-```
+  2. Usage <br/>
+In a shell : ``` $ jupyter notebook``` <br/>
 
-  2. Usage
-  
-In a Python shell :
-```
-jupyter notebook
-```
+## How to use the script 'projet_long_R.ipynb' <br/>
+  1. Install <br/>
 
 
 
