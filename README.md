@@ -1,17 +1,18 @@
-# Julia project : Compare the Julia and Python programming language in Biology.
+# Julia project : Compare the Julia programming language to Python and R programming languages in Biology.
 
 #### By : Audrey Fortune
 #### Cursus : M2 Bioinformatique
 -----------------
 
 ## Description 
-Dans le cadre du .....
-( à compléter )
+The aim of this project is to carry out the analysis of protein structures (sequence alignment, contact card, etc.). <br/>
+***Initiation to Julia*** : Here, we are going to compare the following programming languages : Python, R, Julia. 
 
 ## Required
 - Python 3.8
 - Julia 1.5
-- Jupyter Notebook
+- R 4.0
+- Jupyter / Jupyterlab notebook
 
 ## Packages
 ????
