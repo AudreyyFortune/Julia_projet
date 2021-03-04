@@ -14,10 +14,10 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 - "1USS.pdb" : Yeast Histone H1 globular domain II.
 
 ## Required
-- Python 3.8 [link](https://www.python.org/downloads/)
-- Julia 1.5 [link](https://julialang.org/downloads/)
-- R 4.0 [link](https://cran.r-project.org/)
-- Jupyter / Jupyterlab notebook (Anaconda [link](https://www.anaconda.com/products/individual#Downloads) / Miniconda [link](https://docs.conda.io/en/latest/miniconda.html)) 
+- [Python 3.8](https://www.python.org/downloads/)
+- [Julia 1.5](https://julialang.org/downloads/)
+- [R 4.0](https://cran.r-project.org/)
+- Jupyter / Jupyterlab notebook ([Anaconda](https://www.anaconda.com/products/individual#Downloads) / [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) 
 
 ## Packages
 1. Julia  <br/>
