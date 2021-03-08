@@ -9,47 +9,41 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 ***Initiation to Julia*** : Here, we are going to compare the following programming languages : Python, R, Julia. 
 
 ## Application example
-- "1gh4.pdb" : 
-- "1hcl.pdb" : 
-- "4yc6.pdb" : 
+- "1RGB.pdb" : Phospholipase A2 from *Vipera ammodytes meridionalis*.
+- "1UST.pdb" : Yeast Histone H1 globular domain I.
+- "1USS.pdb" : Yeast Histone H1 globular domain II.
 
 ## Required
-- Python 3.8 [link](https://www.python.org/downloads/)
-- Julia 1.5 [link](https://julialang.org/downloads/)
-- R 4.0 [link](https://cran.r-project.org/)
-- Jupyter / Jupyterlab notebook (Anaconda [link](https://www.anaconda.com/products/individual#Downloads) / Miniconda [link](https://docs.conda.io/en/latest/miniconda.html)) 
+- [Python 3.8](https://www.python.org/downloads/)
+- [Julia 1.5](https://julialang.org/downloads/)
+- [R 4.0](https://cran.r-project.org/)
+- Jupyter / Jupyterlab notebook ([Anaconda](https://www.anaconda.com/products/individual#Downloads) / [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) 
 
 ## Packages
+1. Julia  <br/>
+............;
+2. Python  <br/>
+........
+3. R  <br/>
+........
 ???? bio3d, biostruc ...
 
 ## How to use the script 'projet_long_Julia.ipynb' <br/>
-  1. Installation <br/>
  ```
 julia> using Pkg
 julia> Pkg.add("IJulia")
-```
-  2. Usage <br/>
-In a Julia shell :
-```
 julia> using IJulia
 julia> notebook()
 ```
 
 ## How to use the script 'projet_long_Python.ipynb' <br/>
-  1. Installation <br/>
 With conda : ```  conda install -c conda-forge notebook ```  <br/>
 With pip : ``` pip install notebook ``` <br/>
-
-  2. Usage <br/>
-In a shell : ``` $ jupyter notebook``` <br/>
+ ``` $ jupyter notebook``` <br/>
 
 
 ## How to use the script 'projet_long_R.ipynb' <br/>
-  1. Installation <br/>
-Requires a conda environment. <br/>
-
-  2. Usage <br/>
-In a shell : ``` $ jupyter notebook``` <br/>
+Requires a anaconda environment. <br/>
 
 
 ## Citation
