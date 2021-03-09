@@ -1,4 +1,4 @@
-# Julia project : Compare the Julia programming language to Python and R in Biology.
+# Julia project : Compare the Julia programming language to Python and R in structural bioinformatics.
 
 #### By : Audrey Fortune
 #### Cursus : M2 Bioinformatique
@@ -10,8 +10,8 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 
 ## Application example
 - "1RGB.pdb" : Phospholipase A2 from *Vipera ammodytes meridionalis*.
-- "1UST.pdb" : Yeast Histone H1 globular domain I.
-- "1USS.pdb" : Yeast Histone H1 globular domain II.
+- "6HQ1.pdb" : Globular domain from human histone H1.0.
+- "1UHM.pdb" : Globular domain of linker histone homolog Hho1p from *S. cerevisiae*.
 
 ## Required
 - [Python 3.8](https://www.python.org/downloads/)
@@ -21,12 +21,17 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 
 ## Packages
 1. Julia  <br/>
-............;
+ - BioStructures
+ - BioAlignments
+ - MIToS 
+ - PDBTools 
+ - Bio3DView
 2. Python  <br/>
-........
+ - Biopython
+ - Py3Dmol
 3. R  <br/>
-........
-???? bio3d, biostruc ...
+ - Bio3D
+ - Biostring
 
 ## How to use the script 'projet_long_Julia.ipynb' <br/>
  ```
