@@ -20,16 +20,16 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 - Jupyter / Jupyterlab notebook ([Anaconda](https://www.anaconda.com/products/individual#Downloads) / [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) 
 
 ## Packages
-1. Julia  <br/>
+### 1. Julia  <br/>
  - BioStructures
  - BioAlignments
  - MIToS 
  - PDBTools 
  - Bio3DView
-2. Python  <br/>
+### 2. Python  <br/>
  - Biopython
  - Py3Dmol
-3. R  <br/>
+### 3. R  <br/>
  - Bio3D
  - Biostring
 
