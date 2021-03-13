@@ -1,12 +1,19 @@
 # Julia project : Compare the Julia programming language to Python and R in structural bioinformatics.
 
-#### By : Audrey Fortune
+#### Author : Audrey Fortune
 #### Cursus : M2 Bioinformatique
 -----------------
 
 ## Description 
 The aim of this project is to carry out the analysis of protein structures (sequence alignment, contact card, etc.). <br/>
 ***Initiation to Julia*** : Here, we are going to compare the following programming languages : Python, R, Julia. 
+
+## Analysis
+The programs implemented allow the following analysis to be performed :  <br/>
+* Reading a PDB file.
+* Visualisation of 3D structures.
+* Sequence alignment.
+* Contact map
 
 ## Application example
 - "1RGB.pdb" : Phospholipase A2 from *Vipera ammodytes meridionalis*.
@@ -21,17 +28,11 @@ The aim of this project is to carry out the analysis of protein structures (sequ
 
 ## Packages
 ### 1. Julia  <br/>
- - BioStructures
- - BioAlignments
- - MIToS 
- - PDBTools 
- - Bio3DView
+BioStructures, BioAlignments, MIToS, PDBTools, Bio3DView, RCall
 ### 2. Python  <br/>
- - Biopython
- - Py3Dmol
+Biopython, Py3Dmol
 ### 3. R  <br/>
- - Bio3D
- - Biostring
+Bio3D, Biostring
 
 ## How to use the script 'projet_long_Julia.ipynb' <br/>
  ```
